@@ -1,4 +1,4 @@
-Tentu! Berikut contoh file **README.md** yang bisa kamu pakai untuk repo GitHub kamu, lengkap dengan link ke Spotify Web API dan cara pemakaiannya secara singkat:
+Ok Guys! Berikut contoh file **README.md** yang bisa kamu pakai untuk repo GitHub kamu, lengkap dengan link ke Spotify Web API dan cara pemakaiannya secara singkat:
 
 ````markdown
 # Musify - Sistem Rekomendasi Musik
